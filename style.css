@@ -5,9 +5,7 @@
     line-height: 1.75;
 }
 
-body{
-    height: 90vh;
-}
+/* Styling the parent section */
 
 section{
     text-align: center;
@@ -16,14 +14,20 @@ section{
     padding: 1%;
 }
 
+/* reduced image to fit */
+
 img{
     width: 68%;
     height: 50%;
 }
 
+/* increased heading size */
+
 h1{
     font-size: 2rem;
 }
+
+/* increased quote size */
 
 dd{
     font-size: 1.5rem;
