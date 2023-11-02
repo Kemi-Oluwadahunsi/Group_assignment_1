@@ -10,15 +10,16 @@
 section{
     text-align: center;
     margin: 0 auto;
-    width: 80%;
+    width: 98%;
     padding: 1%;
+    height: 600px;
 }
 
 /* reduced image to fit */
 
 img{
-    width: 68%;
-    height: 50%;
+    width: 100%;
+    height: 98%;
 }
 
 /* increased heading size */
