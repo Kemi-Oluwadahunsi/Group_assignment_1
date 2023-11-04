@@ -50,3 +50,13 @@ button{
 a :hover{
     transform: scale(1.2);
 }
+
+@media screen and (max-width: 480px) {
+    section{
+        height: 300px;
+    }
+
+    dd{
+        font-size: 1.2rem;
+    }    
+}
